@@ -9,6 +9,7 @@ dependencies = [
     "ipykernel>=7.1.0",
     "isort>=7.0.0",
     "langchain==1.0.2",
+    "langchain-ollama>=1.0.0",
     "pre-commit>=4.5.0",
     "pydocstyle>=6.3.0",
     "python-dotenv>=1.2.1",
